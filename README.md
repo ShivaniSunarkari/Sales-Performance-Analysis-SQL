@@ -4,6 +4,15 @@ Sales data analysis project using SQL (SQLite). Includes revenue analysis, custo
 
 # Sales Performance Analysis (SQL Project)
 
+## SQL Concepts Used
+- SELECT statements
+- INNER JOIN
+- GROUP BY
+- Aggregate Functions (SUM)
+- Date formatting using strftime()
+- Revenue calculation (price × quantity)
+- Business insight extraction
+
 ## Tools Used
 - SQL (SQLite)
 - Jupyter Notebook
