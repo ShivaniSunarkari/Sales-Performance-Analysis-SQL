@@ -1,35 +1,20 @@
-# Sales-Performance-Analysis-SQL
-Sales data analysis project using SQL (SQLite). Includes revenue analysis, customer insights, and product performance evaluation.
+Sales Data Analysis Project
 
-
-# Sales Performance Analysis (SQL Project)
-
-## SQL Concepts Used
-- SELECT statements
-- INNER JOIN
-- GROUP BY
-- Aggregate Functions (SUM)
-- Date formatting using strftime()
-- Revenue calculation (price × quantity)
-- Business insight extraction
-
-## Tools Used
+Tools Used:
 - SQL (SQLite)
-- Jupyter Notebook
+- Excel
+- GitHub
 
-## Project Overview
-This project analyzes sales data to identify:
-- Total revenue
-- Monthly revenue trends
-- Top customers
-- Best-performing products
-- Category performance
+Project Overview:
+This project analyzes sales data using SQL queries and Excel dashboards. 
+The dataset includes customers, products, and orders. Data was extracted 
+from SQLite and visualized in Excel using Pivot Tables and charts.
 
-## Key Insights
-- Total Revenue: 260,000
-- Highest Month: January (120,000)
-- Top Customer: Aisha (90,000)
-- Best Product: Laptop (120,000)
-- Top Category: Electronics
+Key Insights:
+- Revenue by product
+- Revenue by category
+- Sales distribution by city
+- Monthly revenue trend
 
-This project demonstrates SQL skills including joins, aggregation, grouping, and business insight generation.
+Tools:
+SQL | Excel | GitHub
